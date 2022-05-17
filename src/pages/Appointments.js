@@ -1,4 +1,5 @@
 import React from 'react';
+import { link } from 'react-router-dom';
 import PageHeader from '../components/PageHeader';
 import afspraak from '../assets/dentist.svg';
 
